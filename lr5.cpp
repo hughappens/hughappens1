@@ -23,7 +23,7 @@ int main() {
 	else cout << "error";
 }
 */
-#include<iostream>
+#include<iostream>//репозиторій SmartGit
 #include<windows.h>
 #include<math.h>
 #define _use_math_defines
